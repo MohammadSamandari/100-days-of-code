@@ -15,8 +15,9 @@
 2. Use a ScrollView to scroll a single child View (such as a TextView). A ScrollView can hold only one child View or ViewGroup.
 3. Use the android:autoLink="web" attribute to make web links in the text clickable.
 5. An Intent lets you request an action from another component in your app, for example, to start one Activityfrom another. An Intent can be explicit or implicit.
-6. Getting data back from an Activity using StartActivityForResult()
-7. Working with onActivityResult() override.
+6. Defining Parent and Child Activity so that the Up Navigation appears in the child activity as a back button.
+7. Getting data back from an Activity using StartActivityForResult()
+8. Working with onActivityResult() override.
 
 
 **Link to work:**
