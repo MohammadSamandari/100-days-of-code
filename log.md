@@ -1,5 +1,43 @@
 # 100 Days Of Code - Log
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+### Day 2: June 15, 2019
+
+**Today's Progress**:
+1. Android fundamentals 02.3: Implicit intents
+
+**Thoughts:**
+Today we worked on implicit intents. this is very important subject. we can send an intent for other apps to get that or we can wait for a specific type of data to open our activity.
+very strong materials.
+
+**The Noticeable Thing I learned**
+1. An implicit Intent allows you to activate an Activity if you know the action, but not the specific app or Activity that will handle that action.
+2. Implement the Share This Text button : A share action is an easy way for users to share items in your app with social networks and other apps. Although you could build a share action in your own app using an implicit Intent, Android provides the ShareCompat.IntentBuilder helper class to make implementing sharing easy. You can use ShareCompat.IntentBuilder to build an Intent and launch a chooser to let the user choose the destination app for sharing.
+3. Receive an implicit Intent: In this task you look at the problem from the other way around: allowing an Activity in your app to respond to an implicit Intent sent from some other app.
+
+**Link to work:**
+1. [Android-ImplicitIntents](https://github.com/MohammadSamandari/Android-ImplicitIntents.git)
+2. [Android-ImplicitIntentReceiver](https://github.com/MohammadSamandari/Android-ImplicitIntentReceiver.git)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Day 1: June 14, 2019
+
+**Today's Progress**:
+1. Android fundamentals 02.2: Activity lifecycle and state
+
+**Thoughts:**
+I started my work with going through activity and explicit intents. then moved from that to lifecycles.
+the intrensting thing was the saveInstanceState method. when changing orientation, some of the data was lost. we tried to preserve this data lose through saving them inside the
+saveInstanceState.
+
+**The Noticeable Things I learned:**
+1. we learned about onstart and onresume and other lifecycles.
+2. Activity instance state and how to save them.
+
+**Link to work:**
+1. [Two Activities](https://github.com/MohammadSamandari/Android-TwoActivities)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 0: June 13, 2019
 
 **Today's Progress**:
@@ -28,20 +66,3 @@
 **Suggestion For Further Reading**
 1. [Using ConstraintLayout to design your views](https://codelabs.developers.google.com/codelabs/constraint-layout/index.html)
 2. [Working with the TextView](https://guides.codepath.com/android/Working-with-the-TextView)
-
-### Day 1: June 14, 2019
-
-**Today's Progress**:
-1. Android fundamentals 02.2: Activity lifecycle and state
-
-**Thoughts:**
-I started my work with going through activity and explicit intents. then moved from that to lifecycles.
-the intrensting thing was the saveInstanceState method. when changing orientation, some of the data was lost. we tried to preserve this data lose through saving them inside the
-saveInstanceState.
-
-**The Noticeable Things I learned:**
-1. we learned about onstart and onresume and other lifecycles.
-2. Activity instance state and how to save them.
-
-**Link to work:**
-1. [Two Activities](https://github.com/MohammadSamandari/Android-TwoActivities)
