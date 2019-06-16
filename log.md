@@ -1,6 +1,23 @@
 # 100 Days Of Code - Log
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+### Day 3: June 16, 2019
+
+**Today's Progress**:
+1. Android fundamentals 03.1: The debugger
+2. Android fundamentals 03.2: Unit tests
+3. Android fundamentals 03.3: Support libraries
+
+**Thoughts:**
+Things are getting complicated. especially with unit testing and stuff.
+I think that I should start to work more on codes rather that just going through the course materials.
+
+**Link to work:**
+1. [Android-DebuggerAndUnitTest](https://github.com/MohammadSamandari/Android-DebuggerAndUnitTest.git)
+2. [Android-HelloCompat](https://github.com/MohammadSamandari/Android-HelloCompat.git)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Day 2: June 15, 2019
 
 **Today's Progress**:
@@ -18,6 +35,10 @@ very strong materials.
 **Link to work:**
 1. [Android-ImplicitIntents](https://github.com/MohammadSamandari/Android-ImplicitIntents.git)
 2. [Android-ImplicitIntentReceiver](https://github.com/MohammadSamandari/Android-ImplicitIntentReceiver.git)
+
+**Suggestion For Further Reading**
+1. [Intents and Intent Filters](http://developer.android.com/guide/components/intents-filters.html)
+2. [Allowing Other Apps to Start Your Activity](https://developer.android.com/training/basics/intents/filters.html)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 1: June 14, 2019
